@@ -1,1 +1,3 @@
-# dotfiles-mpv
+# Dependencies
+
+* **gjs**
