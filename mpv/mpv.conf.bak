@@ -1,4 +1,4 @@
-osc=no
+osc = no
 geometry=50%:50%
 vo=gpu
 profile=gpu-hq
@@ -7,5 +7,3 @@ cscale=ewa_lanczossharp
 video-sync=display-resample
 interpolation
 tscale=oversample
-hwdec=auto-safe
-screenshot-template="%F - [%P]v%#01n"
